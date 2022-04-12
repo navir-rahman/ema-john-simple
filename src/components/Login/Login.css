@@ -1,0 +1,42 @@
+.form_container{
+    width: 600px;
+    margin: 0 auto;
+    border: 1px solid #95a0a7;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+.from_title{
+    font-size: 35px;
+    color: #2a414f;
+    font-weight: 400;
+}
+.input_group{
+    margin: 20px;
+}
+.input_group label{
+    display: block;
+    margin-left: 5px;
+}
+.input_group input{
+    width: 415px;
+    height: 55px;
+    border: 1px solid #95a0a7;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 24px;
+}
+.form_submit{
+    width: 415px;
+    height: 55px;
+    background-color: #FECA27;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 20px;
+    cursor: pointer;
+}
+.from_link{
+    color: #ff9900;
+    text-decoration: none;
+}

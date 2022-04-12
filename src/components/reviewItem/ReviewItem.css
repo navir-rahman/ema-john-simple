@@ -1,0 +1,24 @@
+.reviewItem{
+    padding: 5px 50px;
+    border: 2px solid black;
+    margin: 20px;
+    max-width: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item_text{
+    display: flex;
+}
+.reviewItem img{
+    margin-right: 20px;
+    width: 200px;
+}
+.review_icon{
+    font-size: 37px;
+    border: 1px solid red;
+    padding: 10px;
+    cursor: pointer;
+    color: red;
+    background-color: rgba(255, 0, 0, 0.225)
+}
